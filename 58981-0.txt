@@ -1,31 +1,7 @@
-The Project Gutenberg EBook of History of Sculpture, Painting, and
-Architecture, by John Smith Memes
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-
-Title: History of Sculpture, Painting, and Architecture
-
-Author: John Smith Memes
-
-Release Date: February 28, 2019 [EBook #58981]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK HISTORY OF SCULPTURE ***
+*** START OF THE PROJECT GUTENBERG EBOOK 58981 ***
 
 
 
-
-Produced by Sonya Schermann, Alan, and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
 
 
 
@@ -768,7 +744,7 @@ chiefly of the Sphynx. These latter appear to have been in considerable
 numbers, usually ranged in corresponding lines on the opposite side of
 the approach to the great temples. Of the human colossi, again, some
 were isolated, and were probably objects of worship; others were merely
-ornaments, chiefly employed as columns, as in the famous Propylæon of
+ornaments, chiefly employed as columns, as in the famous PropylÃ¦on of
 the Temple of Vulcan, ascribed to Psammetichus, and erected at Memphis.
 Of the unattached figures, the attitude appears to have exhibited but
 little action; the posture apparently various, though seldom erect.
@@ -1218,7 +1194,7 @@ The fine arts have never flourished in states not commercial; in this
 respect, presenting a marked contrast to the origin and progress of
 poetry and music; a fact singularly exemplified in the condition of
 those cities where arose the primitive schools in Greece. Sicyon,
-Ægina, Corinth, and Athens, were the first seats of commerce and of
+Ã†gina, Corinth, and Athens, were the first seats of commerce and of
 sculpture. Sicyon, with its small but important territory, extending
 a few miles along the south-eastern extremity of the Corinthian gulf,
 was the most ancient of the Grecian states, and probably the oldest
@@ -1241,7 +1217,7 @@ charm, which, to their poetry, their arts, their philosophy even, the
 Greeks have imparted by the constant union of sentiment and reason--of
 the heart with the understanding.
 
-The little island, or rather rock, of Ægina, still one of the most
+The little island, or rather rock, of Ã†gina, still one of the most
 interesting spots of Greece, rising above the waves of the Saronic
 gulf, nearly opposite to Athens, affords a striking illustration of the
 effects of commercial wisdom. Insignificant in extent, boasting of few
@@ -1253,11 +1229,11 @@ invention. Smilis was famous by his statues of Juno, especially one
 at Samos, called by Pliny 'the most ancient image' of that goddess.
 Even in the works of this, her first master, it is said, were to be
 discovered a gravity and austere grandeur, the principles of that style
-visible still in the noble marbles which once adorned, in Ægina, the
+visible still in the noble marbles which once adorned, in Ã†gina, the
 temple of Jupiter Panhellenius.
 
 Corinth was early more celebrated as the patroness of painting.
-Concerning Dædalus, the first of the Athenian sculptors, doubtful or
+Concerning DÃ¦dalus, the first of the Athenian sculptors, doubtful or
 fabulous accounts have reached us; but a careful investigation of
 circumstances proves, that of whatsoever country a native, he had
 rendered himself renowned by the exercise of his skill at the court of
@@ -1265,7 +1241,7 @@ Minos before settling in Attica. The facts attending his arrival there,
 and the history of his previous labours, enable us to fix dates, and to
 trace the true source of improvement in Grecian art at this particular
 era. Of the early establishments of the Greeks planted in the isles of
-the Ægean, which even preceded the mother country in the acquisition
+the Ã†gean, which even preceded the mother country in the acquisition
 of wealth and intelligence, the Doric colony of Crete enjoyed, from
 a very early period, the happiness and consequent power of settled
 government. External advantages of situation first invited the access,
@@ -1276,19 +1252,19 @@ transplant the latter also; and while he gave to his countrymen a
 similar system of policy, he did not fail to secure the co-operation
 of one whose knowledge might yield powerful aid in humanizing a rude
 people by adding new dignity to the objects of national veneration.
-Accordingly Dædalus, accompanying the conqueror of the Minotaur to
+Accordingly DÃ¦dalus, accompanying the conqueror of the Minotaur to
 Athens, fixes there the commencement of an improved style, 1234 years
-before the Christian era. With Dædalus, the artists already mentioned
+before the Christian era. With DÃ¦dalus, the artists already mentioned
 are described as nearly or altogether contemporaries.
 
-The performances of Dædalus were chiefly in wood, of which no fewer
+The performances of DÃ¦dalus were chiefly in wood, of which no fewer
 than nine, of large dimensions, are described as existing in the second
 century, which, notwithstanding the injuries of fourteen hundred
 years, and the imperfections of early taste, seemed, in the words of
 Pausanias, to possess something of divine expression. Their author, as
 reported by Diodorus, improved upon ancient art, so as to give vivacity
 to the attitude, and more animated expression to the countenance. Hence
-we are not to understand, with some, that Dædalus introduced sculpture
+we are not to understand, with some, that DÃ¦dalus introduced sculpture
 into Greece, nor even into Attica; but simply that he was the first
 to form something like a school of art, and whose works first excited
 the admiration of his own rude age, while they were deemed worthy of
@@ -1300,8 +1276,8 @@ have given on the subject. In these primitive schools, however, many
 centuries necessarily elapsed, before sculpture can be considered as a
 regular art. Their founders and pupils were little more than ingenious
 mechanics, who followed carving among other avocations. Such were
-Endæus of Athens, celebrated for three several statues of Minerva;
-Æpeus, immortalized as the fabricator of the Trojan horse; Icmulous,
+EndÃ¦us of Athens, celebrated for three several statues of Minerva;
+Ã†peus, immortalized as the fabricator of the Trojan horse; Icmulous,
 praised in the Odyssey as having sculptured the throne of Penelope;
 with many others who must have contributed to the arts of the heroic
 ages, and who, if they did not rapidly improve, at least kept alive the
@@ -1316,7 +1292,7 @@ this the continental academies were even indebted for many of their
 most distinguished members, who, leaving the narrow sphere of their
 island homes, naturally preferred the commercial cities from the same
 causes which had rendered these originally seats of art, opulence,
-intelligence, and security. Of the Samian masters, Rhæcus, about the
+intelligence, and security. Of the Samian masters, RhÃ¦cus, about the
 institution of the Olympiads, or 777 B. C., first obtained celebrity,
 as a sculptor in brass, in which art, Telecles and Theodorus, his son
 and grandson, also excelled. Their works in ivory, wood, and metal,
@@ -1344,7 +1320,7 @@ rivets, dovetails, and soldering, formed the joints, were gradually
 superseded as the knowledge of casting was acquired.
 
 About the commencement of the sixth century before Christ, the school
-of Sicyon was illustrated by Dipænus and Scyllis, brothers, the
+of Sicyon was illustrated by DipÃ¦nus and Scyllis, brothers, the
 most famous of her ancient masters, and whose age forms an era in
 the history of the ancient art, marking the first decided advances
 towards the mastery of the succeeding style. Their labours were in
@@ -1367,7 +1343,7 @@ elaborated with the extreme of care. It is far easier, and the common
 error, both of inferior genius and of an unskilful age, to bestow on
 parts that talent and application by which a whole is to be perfected.
 The fault of fastidious and useless labour, with inaccuracy of general
-result, still attaches to the works of Dipænus and Scyllis, but great
+result, still attaches to the works of DipÃ¦nus and Scyllis, but great
 melioration is also apparent; their execution was much more free, the
 whole effect more powerful, the expression, if not more animated, more
 natural, and the forms better selected and composed. Colossal heads,
@@ -1379,7 +1355,7 @@ known and universally practised. Even so early as the twentyninth
 Olympiad, an equestrian group had been executed in Crete by Aristocles;
 all the proper materials, and the methods of working them, had long
 been discovered; in the greatest single work of these times, the shrine
-of Apollo at Amyclæ, by Bathycles the Ionian, every description of
+of Apollo at AmyclÃ¦, by Bathycles the Ionian, every description of
 relief had been exhibited; and lastly, improvement had been fixed on
 such principles of taste and composition, as enabled succeeding efforts
 to carry it forward.
@@ -1387,7 +1363,7 @@ to carry it forward.
 The extent of country in which the art was now cultivated, and the zeal
 evinced in the pursuit, corresponded to, while they increased, the
 improvement of taste. Attention is now directed to a new school, that
-of Magna Græcia, which (during two thousand years), had been gradually
+of Magna GrÃ¦cia, which (during two thousand years), had been gradually
 rising into importance and excellence. Its chief seats were at Rhegium
 and Crotona in Italy, and in Sicily, Syracuse and Agrigentum. In these,
 the artists first practised in metal chiefly, afterwards in marble;
@@ -1405,10 +1381,10 @@ Thus five centuries and a half before the Christian era, sculpture was
 practised with success throughout the wide extent of Greece and her
 colonies. During the former part of the sixth century, however, Sicyon,
 whose school had added to its ancient supremacy by the superiority of
-Dipænus and Scyllis, continued to send forth, in their pupils, the
+DipÃ¦nus and Scyllis, continued to send forth, in their pupils, the
 most numerous and efficient artists. Of these, the principal were
 Learchus, a native of Rhegium; Theocles, Dontas, Doryclidos, and Medon,
-Lacedæmonians; Tecteus and Angelion of Delos, where they erected a
+LacedÃ¦monians; Tecteus and Angelion of Delos, where they erected a
 colossal statue of Apollo. At Rhegium, Clearchus was highly esteemed,
 and had a very flourishing academy; while at Agrigentum, Perillus
 rivalled the masters of the parent schools. He cast the famous bull
@@ -1497,7 +1473,7 @@ master. In the mechanical department, also, his manner was more bold,
 firm, and graceful, in delicacy of style being placed by Quintilian
 inferior only to Myron, the last and the greatest of the early school.
 
-Myron, a native of Eleutheræ, exercised his profession chiefly at
+Myron, a native of EleutherÃ¦, exercised his profession chiefly at
 Athens, of which he enjoyed the citizenship. The decline of his life
 corresponds with the early labours of Phidias: Myron thus unites
 the first and second ages of Grecian sculpture, combining in his
@@ -1545,7 +1521,7 @@ collective energies and discoveries of a thousand years were required
 to rear the arts of Greece--not to their perfection, but to the state
 where the first decided approaches to it commence. Such is the length
 of time from the first feeble glimmerings of imitative art to the era
-of Dipænus and Scyllis, Bupalus and Anthermus. The interval of forty
+of DipÃ¦nus and Scyllis, Bupalus and Anthermus. The interval of forty
 years occupied by these artists, from the fiftieth to the sixtieth
 Olympiad, may be considered as terminating the old, and introducing
 the new school. The art was now in possession of all the means and
@@ -1589,9 +1565,9 @@ improvement was between the artists who preceded and those who
 followed the age of Xerxes, we have only to recall the fortunes of
 the drama during the same heart-stirring period. In the last of the
 74th Olympiad, A. C. 489, or one year after the battle of Marathon,
-Æschylus placed the first wreath upon the solemn brow of Tragedy.
+Ã†schylus placed the first wreath upon the solemn brow of Tragedy.
 Not twenty years afterwards, the warrior bard was vanquished by his
-youthful rival. Between the Prometheus of Æschylus, then, and the
+youthful rival. Between the Prometheus of Ã†schylus, then, and the
 [OE]dipus of Sophocles, we find as wide an interval as is necessary to
 suppose between the sculptures contemporary with the former, and the
 productions of Polycletus or Myron.
@@ -1624,7 +1600,7 @@ was left by Themistocles with ample resources--a noble field of fame
 and recompense for the artist. He himself, satisfied with the useful,
 had cared less about the ornamental; but, among the little he did add,
 were the lions, now at Venice, originally placed on the entrance to the
-Piræus, in which fidelity of detail, and grandeur of conception, have
+PirÃ¦us, in which fidelity of detail, and grandeur of conception, have
 furnished to us existing evidence of the skill of this age.
 
 Great as they were, the mind of Phidias proved equal to these external
@@ -1646,7 +1622,7 @@ to the excellence of his greater works; at once sublime and ingenious,
 he executed grand undertakings with majesty and force, and the most
 minute with simplicity and truth.
 
-  'Artis Phidiacæ toreuma durum
+  'Artis PhidiacÃ¦ toreuma durum
   Pisces adspicis: adde aquam, natabunt.'
 
   'These fish are iv'ry--but by Phidias made;
@@ -2156,17 +2132,17 @@ chiefly to making repetitions in marble of the ancient bronzes. To
 this period belong many of the antique marbles now remaining. Pliny,
 indeed, though not with strict correctness, considers that Sculpture
 lay dormant during one hundred and twenty years, from the 120th to
-the 150th Olympiad. The Achæan league, and the expiring efforts of
-Greece under the last of her heroes, Aratus and Philopæmen, inspired a
+the 150th Olympiad. The AchÃ¦an league, and the expiring efforts of
+Greece under the last of her heroes, Aratus and PhilopÃ¦men, inspired a
 degree of vigour into her intellectual exertions. Of these warriors,
 contemporary statues are noticed by Pausanius; and the latter is
-reported to have excelled in painting. But the Ætolian war broke for
+reported to have excelled in painting. But the Ã†tolian war broke for
 ever the ties of country, and the sacredness of national glory. Temples
 were therein first desecrated,--statues and paintings defaced in
 Greece, and by the hands of Greeks. If, during the same era, we direct
 our attention to the successors of Alexander in Egypt and Asia, we
 find letters cultivated in preference to art; or, where Sculpture is
-patronised, as at the courts of the Ptolemies and the Seleucidæ, the
+patronised, as at the courts of the Ptolemies and the SeleucidÃ¦, the
 cultivation of a taste between Grecian and barbarian only hastened the
 progress of corruption. One bright interval yet arose in the parent
 seats of refinement, upon the declaration, by the Romans, of freedom to
@@ -2176,7 +2152,7 @@ success by the masters, Antheus, Callistratus, Polycles Apollodorus,
 Pasiteles, and others, possessing considerable merit, though far below
 the genius of ancient times. This was the struggling gleam of the
 expiring taper--the farewell sweet of a sun about to set forever. The
-independence of Greece endured only by sufferance; the Achæan league
+independence of Greece endured only by sufferance; the AchÃ¦an league
 was dissolved, and Corinth and its capitol levelled with the dust, to
 the sound of Roman trumpets--the knell of freedom and of the arts in
 Greece.
@@ -2238,11 +2214,11 @@ Italian history. Gem engraving was brought to great perfection at an
 early period both in Greece and Italy. Of this minute but charming art,
 probably the oldest specimen now extant represents five of the seven
 chiefs who fought against Thebes. Of this the design is inartificial,
-and the workmanship rude; other Etruscan gems, however, or _scarabæi_,
+and the workmanship rude; other Etruscan gems, however, or _scarabÃ¦i_,
 from their resemblance to the shape of a beetle, as the Tydeus and
 Peleus, equal the most exquisite performances in this branch. The most
 curious and numerous remains belong to the class of engraved bronzes,
-or pateræ, small vessels used in sacrificing, circular, and, in the
+or paterÃ¦, small vessels used in sacrificing, circular, and, in the
 single instance of the Etruscan, with a handle. On the bottom, inside,
 which is perfectly flat, being merely a plate surrounded with a shallow
 brim, there is usually engraved some mythological subject, of simple
@@ -2324,7 +2300,7 @@ on the plea, that its divine forms would expose to ridicule the rude
 fashioning of the Roman deities.
 
 During the latter period of the commonwealth, attempts were
-successively made by Sylla, Pompey, and Cæsar, to domiciliate the arts
+successively made by Sylla, Pompey, and CÃ¦sar, to domiciliate the arts
 in Rome. Their efforts, however, reached no farther than collecting
 in that capital the sculptors of Greece,--thus doubly unfortunate,
 as the place whence were torn the plundered ornaments of temples and
@@ -2841,7 +2817,7 @@ conceptions. Intelligence in science, breadth of touch, boldness of
 manner, fearlessness of difficulty, unite to give life and movement
 to attitudes the most remote from such as nature would voluntarily
 assume, or graceful design select. Rome contains the most perfect and
-the most wonderful of Michael Angelo's statues. The Pietà, or Virgin
+the most wonderful of Michael Angelo's statues. The PietÃ , or Virgin
 and Dead Saviour, in St Peter's, finished in his twentyfourth year,
 is not only at the head of the first division of his works, but, on
 the whole, is the least exaggerated, and the most natural of all.
@@ -3014,7 +2990,7 @@ master; and his own pupils continued to maintain similar, though
 inferior, practice to the golden age of refinement in France--the
 reign of Louis XIV. Of this school, two artists, Girardon and Puget,
 claim to be the head. The former, though we cannot say with Voltaire,
-'il a égalé tout ce que l'antiquité a de plus beau,' has yet great
+'il a Ã©galÃ© tout ce que l'antiquitÃ© a de plus beau,' has yet great
 merit. His manner of design, with a degree of hardness, is yet noble,
 and though cold, is more correct than that of his contemporaries,
 as appears from the tomb of Richelieu. Puget, in every respect the
@@ -3041,9 +3017,9 @@ in the library of the Institute, and upon which the following severe
 epigram was composed:--
 
   Pigal au naturel represente Voltaire--
-  Le squelette à la fois offre l'homme et l'auteur.
-  L'[oe]il qui le voit sans parure étrangère
-  Est effrayé de sa maigreur!
+  Le squelette Ã  la fois offre l'homme et l'auteur.
+  L'[oe]il qui le voit sans parure Ã©trangÃ¨re
+  Est effrayÃ© de sa maigreur!
 
 Bermudez, the historian of Spanish art, enumerates a splendid list of
 native sculptors from the commencement of the sixteenth century. This,
@@ -3064,7 +3040,7 @@ general history of sculpture; and even now she is more celebrated for
 her writers on the philosophy, than for her artists in the practice,
 of the art. Still the genius of the nation we should be inclined to
 estimate as highly favorable to its future advancement. In Vienna,
-Rauchmüller; in Silesia, Leigebe; at Berlin, Schluter, Millich,
+RauchmÃ¼ller; in Silesia, Leigebe; at Berlin, Schluter, Millich,
 Barthel, and others, have proved this estimate not unfounded. While our
 more immediate contemporaries, Ohnmacht, Sonnenschein, Nahl, the two
 Shadofs, especially the younger, whose Spinning Girl is one of the most
@@ -3680,7 +3656,7 @@ of principle, is difficult. To the age of Phidias, the art continued
 certainly to improve, but very slowly, being left far in the rear
 by Sculpture. The genius of this consummate master, who indeed had
 originally commenced his career as a painter, extended to all the
-arts; and, under such an instructer, his brother Penænus, very highly
+arts; and, under such an instructer, his brother PenÃ¦nus, very highly
 distinguished himself, though vanquished in a contest for the public
 prize, then instituted at Delphos and Corinth. From the middle of the
 fifth century, then, a decided movement commences in the history of
@@ -3690,7 +3666,7 @@ Polygnotus of Thasos then first succeeded, to borrow a phrase, 'in the
 expression of undescribed being,' and whose pictures Pliny admired six
 hundred years afterwards. Improvement was carried forward for half a
 century by Mycon, famous in horses; Pauson, his rival; Dionysius of
-Colophon, praised by Ælian for minute accuracy; Aglaophon, bold and
+Colophon, praised by Ã†lian for minute accuracy; Aglaophon, bold and
 energetic; Colotes, sculptor and painter; Evenor, father of Parrhasius;
 and finally, greatest of all, Apollodorus the Athenian, who invented
 or perfected the knowledge of light and shade. With this artist, the
@@ -3755,7 +3731,7 @@ that he taught the true method of grouping; at least, from the manner
 of description adopted by Pausanias, it would evidently seem that
 in all pictures anterior to this age, the figures were ranged in
 lines, without any principal group on which the interest of the event
-was concentrated. Even so late as the works of Panænus, the brother
+was concentrated. Even so late as the works of PanÃ¦nus, the brother
 of Phidias, the different distances were represented by the very
 inartificial and ungracious means of placing the figures in rows one
 above the other. In all his improvements, Zeuxis was more than followed
@@ -3774,7 +3750,7 @@ master. From the descriptions of ancient writers, the character of
 his style must have closely resembled that of Raphael, while their
 choice of subjects appears to have been nearly similar. The Venus
 of Apelles, long afterwards purchased by Augustus for one hundred
-talents, or £20,000 sterling, was esteemed the most faultless creation
+talents, or Â£20,000 sterling, was esteemed the most faultless creation
 of the Grecian pencil, the most perfect example of that simple yet
 unapproachable grace of conception, of symmetry of form, and exquisite
 finish, in which may be summed up the distinctive beauties of his
@@ -3791,7 +3767,7 @@ finishing too highly; yet, to obtain possession of one of his pictures,
 was the chief cause of the siege of Rhodes. Nicias, who is reported to
 have touched up the statues of Praxiteles--in what manner is not known,
 nor was Canova successful in his researches on this subject. Somewhat
-later lived Nichomachus, Pausius, Ætion, the Albano of antiquity, and
+later lived Nichomachus, Pausius, Ã†tion, the Albano of antiquity, and
 others, with whom the art began to lapse. The causes and progress of
 this decline have already been traced in the history of sculpture. The
 remarks there are applicable to both arts, but peculiar circumstances
@@ -4831,7 +4807,7 @@ its fidelity, minuteness, and beauty; but human talent, and weeks of
 precious time, wasted upon a cabbage leaf, or a few fish upon a board,
 is after all but a melancholy theme, which we shall despatch with a
 catalogue of names. Before or contemporary with Rembrandt, who died in
-1674, we have Hæmskirk, Both, Metzu, Blæmart, Breenberg, Polemberg,
+1674, we have HÃ¦mskirk, Both, Metzu, BlÃ¦mart, Breenberg, Polemberg,
 Bhergem, Cuyp, Wynants, Heem, Mieris, Vangoyn, Schalken, Van der
 Neer, Van der Warf. A higher class of artists were Wouvermans, Laar,
 and Gherard Douw, the most careful of painters. These and others now
@@ -4872,7 +4848,7 @@ is not universal, that is inventive, in its peculiarity of manner. In
 her early efforts, France was indebted to Italy, and in her subsequent
 labors the Italian method of design has prevailed; indeed, her artists
 have here rather copied than imitated, adding, no doubt, what have
-been termed _les graces Françoises_--an expression ill-naturedly, but
+been termed _les graces FranÃ§oises_--an expression ill-naturedly, but
 not without truth, translated, 'French grimaces.' It is rare, perhaps
 impossible, to find originality where taste has not been naturally,
 and to a considerable extent, cultivated prior to the introduction
@@ -5090,7 +5066,7 @@ of learning, which, originating with the writers of that age, spread
 over Europe, nor, in art, is yet entirely exploded. Cases is one of the
 most eminent of native artists, who was overlooked during his lifetime;
 but what is the meaning of Voltaire's remark on this artist? 'Chaque
-nation cherche à se faire valoir; les Français font valoir les autres
+nation cherche Ã  se faire valoir; les FranÃ§ais font valoir les autres
 nations en tout genre.' The taste of this writer in the fine arts is
 not less contemptible than in the principles of nobler literature, and
 in religion. The tawdry nudities which we have seen still suspended
@@ -5166,7 +5142,7 @@ doubt, however, David was a man of great genius, and when he errs, it
 is more through defect of system than of talent; but the former being
 his own creation, he stands responsible for its faults. Besides that
 just quoted, his best performances are Leonidas with the Spartans at
-Thermopylæ, one of the best colored of his pictures, but the figure
+ThermopylÃ¦, one of the best colored of his pictures, but the figure
 of the chief wants majesty; the Death of Socrates is destitute of
 that solemnity of repose, yet activity of feeling, which we have been
 accustomed to associate with the scene; the Funeral of Patroclus--a
@@ -6051,7 +6027,7 @@ these difficulties, is the series of six pictures, of the size of life,
 representing the progress of civilization, in the Hall of the Society
 of Arts; and it reflects the highest honor on that useful institution,
 that its gratuitous reward enabled the artist to enjoy his only
-permanent, though small income, of about £60 yearly. That such a member
+permanent, though small income, of about Â£60 yearly. That such a member
 should have been ejected from the Royal Academy of Great Britain, in
 which also he held the Chair of Painting, must be considered as a
 common calamity both to that body and to himself: to him it certainly
@@ -6719,7 +6695,7 @@ to Sculpture and Painting, which have been distinguished as the
 offspring of elegance and luxury. To the first, the remark of the
 ancient poet has been deemed most peculiarly applicable,
 
-  'Hinc variæ venîre artes--labor omnia vicit
+  'Hinc variÃ¦ venÃ®re artes--labor omnia vicit
   Improbus, et duris urgens in rebus egestas.'
 
 If there be, however, distinction in the first origin, it ceases long
@@ -7070,7 +7046,7 @@ magnificent pile is emphatically termed, was of a quadrangular outline,
 erected upon a solid platform of stone, bearing a strong resemblance to
 the ancient temples still extant. Indeed, there is, in this respect,
 a most striking analogy between the dimensions as given in Scripture,
-and those of the oldest Greek temples, especially of Ægina and Pæstum.
+and those of the oldest Greek temples, especially of Ã†gina and PÃ¦stum.
 This latter we have examined, and, agreeing to the fidelity of the
 grounds upon which Wilkins has founded his reasonings, in the admirable
 dissertation on this subject in his preface to the 'Antiquities of
@@ -7399,7 +7375,7 @@ appears amazing, and must have been considered as wonderful even in the
 age of Homer, who, in his catalogue, distinguishes this city by the
 epithet 'well-walled,' or, as Pope has rendered the passage,
 
-  Whom strong Tyrenthé's lofty walls surround.
+  Whom strong TyrenthÃ©'s lofty walls surround.
 
 Indeed, of all the characteristics added to the Grecian confederates,
 the distinction of their walled cities is by far the most frequent.
@@ -7412,7 +7388,7 @@ wall. It is worthy of remark, that the top of this passage is covered,
 exactly as in the great pyramid, by immense stones, placed one on each
 side, and meeting at an acute angle in the centre. Near in point of
 situation, but somewhat later in time, are the walls of the 'proud
-Mycenæ' of Homer, an interesting ruin in the age of Thucydides, four
+MycenÃ¦' of Homer, an interesting ruin in the age of Thucydides, four
 hundred years before our era. These remains show evident correspondence
 with the style of Egypt. The very gateway, described by the author just
 mentioned, and subsequently by Pausanius, still remains; formed of
@@ -7432,7 +7408,7 @@ individuals had such places of safe custody, before temples either
 existed or were employed as repositories for treasure. Of these
 buildings, one of the most perfect, and indeed the most interesting
 relic of those earliest times, is the treasury of Atreus amid the ruins
-of Mycenæ. Externally it presents the appearance of a mound of earth;
+of MycenÃ¦. Externally it presents the appearance of a mound of earth;
 but the interior is found to be a magnificent structure, circular,
 fifty feet in diameter, and rather more in height, composed of stones
 of great size, each course projecting inwards and over the one below,
@@ -7660,9 +7636,9 @@ colonized chiefly by the Dorians--hence the name. Of this order are the
 most celebrated remains of ancient art, which may be divided into two
 great classes, namely, those of Greece, and of the Greek settlements
 in Sicily and Southern Italy. The first class of buildings comprehends
-a space extending from the earliest traditions, when Æachus, in the
+a space extending from the earliest traditions, when Ã†achus, in the
 commencement of the tenth century before Christ, is reported to have
-built the temple of Jupiter still remaining in Ægina, to the erection
+built the temple of Jupiter still remaining in Ã†gina, to the erection
 of the Parthenon, the noblest monument of this order, which, from its
 beauty, and the predilection in its favor, has been termed the Grecian.
 Subsequently, decline appears so early as the era of the Macedonian
@@ -7670,10 +7646,10 @@ empire; but the latest erection is supposed coeval with the reign of
 Augustus. Within the ten centuries thus comprehended between the first
 and last application of the Doric order, must have been erected those
 magnificent structures whose ruins still adorn Greece. The probable
-ages of these are as follow: commencing with the Æginetic ruin just
+ages of these are as follow: commencing with the Ã†ginetic ruin just
 mentioned, whose date is lost in remote antiquity, and which seems to
 have formed the second remove only in the march of art westward from
-its primeval sources, to Crete, Ægina, Greece. Next, the celebrated
+its primeval sources, to Crete, Ã†gina, Greece. Next, the celebrated
 four columns near Corinth. The temple of Jupiter at Olympia either
 precedes or follows, the architect Libon, and the roof, the first of
 the kind, formed of marble tiles, the invention of Byzes of Naxos. An
@@ -7767,7 +7743,7 @@ for a moment an edifice--the porticos of which alone would require
 one hundred columns of stone, each sixty feet high, and thirty in
 circumference--such was the great Temple of Selinus.
 
-The celebrated ruins of Pæstum, consisting of two temples and a
+The celebrated ruins of PÃ¦stum, consisting of two temples and a
 quadrangular portico, containing eighteen columns in flank, and seven
 in front, compose the only Grecian Doric remains in Italy. The date and
 origin of these structures will probably ever remain liable to doubt.
@@ -7778,7 +7754,7 @@ evident character of the same design and architectural principles as
 the Sicilian edifices; between which latter, indeed, as compared with
 each other, there exists, in this respect, a very striking uniformity,
 pointing to a nearly contemporary erection. Hence the inference seems
-clear, that to the same era the Pæstan ruin is to be referred, and that
+clear, that to the same era the PÃ¦stan ruin is to be referred, and that
 it is the work of Greek colonists from Sybaris, who, from the middle
 of the sixth century B. C., for more than two hundred years enjoyed
 peaceable possession of this part of Lucania. This temple, though not
@@ -7847,7 +7823,7 @@ just selection.
 Of the Ionic order, few remains are extant in Greece or her
 colonies--few, we mean, as compared with the amazing structures just
 considered. The Temple of Juno, in the Isle of Samos, raised about
-the first Olympiad by Ræchus and Theodorus, already noticed as the
+the first Olympiad by RÃ¦chus and Theodorus, already noticed as the
 founders of the Samian School of Sculpture, supplies the earliest
 specimen. This, in the age of Herodotus, was the grandest building in
 Greece. How rapidly the order must have improved! Many archaisms, not
@@ -8160,7 +8136,7 @@ have ceased to be monuments save of their own greatness. Some, and
 those but of individuals, or even a woman's grave, as towers of
 strength have rolled back the shock of feudal warfare; and the tomb of
 an emperor, turned into a palace, or a fortress, still overawes the
-city of the Cæsars.
+city of the CÃ¦sars.
 
 But, alas! the passing briefness of all things sublunary! The spirit's
 homage to this mightiness of mind and power, is due only to the labours
@@ -8226,7 +8202,7 @@ its own interpreter.
 I. It has been shown that the Romans, in obtaining full mastery of a
 powerful engine in building--the arch, were at first bold, subsequently
 lavish, and, it will appear, finally barbarous, in its application.
-From the reigns even of the early Cæsars, a tendency may be traced in
+From the reigns even of the early CÃ¦sars, a tendency may be traced in
 their architecture to become great in mass, but little in parts--to
 lessen, in the first instance, the vertical or supporting members;
 and in the second, to load the superstructure, or supported parts.
@@ -8446,7 +8422,7 @@ semicircular arches forming intermediate pointed ones, gave the
 primitive model. This interlacing of arches is a common ornament in
 buildings of the old Gothic, already explained; it occurs frequently
 in relievo, and, if we recollect rightly, also with disengaged columns
-in several of the façades of old churches in Italy. Durham and Lincoln
+in several of the faÃ§ades of old churches in Italy. Durham and Lincoln
 cathedrals, likewise ecclesiastical remains in Scotland, as Kelso
 Abbey, furnish examples. 6. Opinion of Mr Whittaker and others,--that
 pointed Architecture was known to, and practised by, the Romans, early
@@ -8516,7 +8492,7 @@ peculiar style. In this we are borne out by a series of monuments in
 each country, showing the progressive rise and introduction of the
 pointed arch, from the form of two long stones, placed on supports,
 and meeting at top--a contrivance as still visible in the walls of
-Mycenæ, of three thousand years' standing, up to the finished lancet
+MycenÃ¦, of three thousand years' standing, up to the finished lancet
 arch, as in Salisbury cathedral. Or, granting even the Eastern
 introduction of the arch--and here the monuments are of very doubtful
 antiquity,[F]--what does this prove with regard to the origin of the
@@ -8705,7 +8681,7 @@ have ceased. In France, the two Mansards, during the building reign of
 Louis XIV., have left heavy imitations of the Michael-Angelesque style;
 still, to the artist writers of that country, the art owes much. It
 is there more regularly studied than in any other country in Europe;
-and in one specimen, the façade of the Louvre, the grandest excellence
+and in one specimen, the faÃ§ade of the Louvre, the grandest excellence
 has been attained; but the general character of national building is
 too fluttering, wanting repose and majesty. From the two schools,
 the following ten have been selected, under the name of the modern
@@ -8829,7 +8805,7 @@ as you see me; otherwise I will never pay you a farthing.'
 Pausanius, and remaining the most ancient accredited monument of the
 art in Greece.
 
-[E] See Edinburgh Encyclopædia, vol. xviii. part i. p. 21.
+[E] See Edinburgh EncyclopÃ¦dia, vol. xviii. part i. p. 21.
 
 [F] Since expressing our opinion, in an early part of the volume, on
 the doubtful antiquity of Indian architecture, we have perceived, with
@@ -8872,366 +8848,4 @@ ventured to draw from the analogies of art.
 End of the Project Gutenberg EBook of History of Sculpture, Painting, and
 Architecture, by John Smith Memes
 
-*** END OF THIS PROJECT GUTENBERG EBOOK HISTORY OF SCULPTURE ***
-
-***** This file should be named 58981-8.txt or 58981-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/8/9/8/58981/
-
-Produced by Sonya Schermann, Alan, and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+*** END OF THE PROJECT GUTENBERG EBOOK 58981 ***
